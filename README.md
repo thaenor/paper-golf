@@ -172,6 +172,7 @@ MVP checklist (frontend-only)
 - [ ] Tests for rules engine and export/import
 
 Appendix: Example JSON export (session)
+```json
 {
   "version":1,
   "seedId":"GPA-0001-5F2A3B",
@@ -184,5 +185,5 @@ Appendix: Example JSON export (session)
   ],
   "settings":{"fairwayBoost":1,"sandPenalty":-1,"waterPenalty":1,"useSeedRng":true}
 }
-
+```
 End.
